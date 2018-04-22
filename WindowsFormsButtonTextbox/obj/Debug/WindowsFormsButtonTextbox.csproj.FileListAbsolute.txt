@@ -1,0 +1,10 @@
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\bin\Debug\WindowsFormsButtonTextbox.exe.config
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\bin\Debug\WindowsFormsButtonTextbox.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\bin\Debug\WindowsFormsButtonTextbox.pdb
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.csprojResolveAssemblyReference.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.Form1.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.Properties.Resources.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.csproj.GenerateResource.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.csproj.CoreCompileInputs.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsButtonTextbox\WindowsFormsButtonTextbox\obj\Debug\WindowsFormsButtonTextbox.pdb
